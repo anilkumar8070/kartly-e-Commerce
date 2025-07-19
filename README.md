@@ -19,6 +19,7 @@ This project demonstrates a complete end-to-end application with rich features f
 ---
 
 ## 📁 Project Structure
+
 kartly-e-Commerce/
 ├── backend/ # Node.js + Express server
 │ └── ... # APIs, DB config, models, routes
