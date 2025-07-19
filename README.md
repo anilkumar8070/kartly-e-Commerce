@@ -80,9 +80,9 @@ JWT_SECRET=yourrandomjwtsecretkey</code></pre>
 
   <h2>👨‍💻 Project Team</h2>
   <ul>
-    <li><strong>[Person 1's Name]</strong> – Backend & API Architect</li>
-    <li><strong>[Person 2's Name]</strong> – Frontend & UX Developer</li>
-    <li><strong>[Your Name]</strong> – State Management & Logic Integrator</li>
+    <li><strong>[Yashwant]</strong> – Backend & API Architect</li>
+    <li><strong>[Vansh]</strong> – Frontend & UX Developer</li>
+    <li><strong>[Anil]</strong> – State Management & Logic Integrator</li>
   </ul>
 
   <hr>
